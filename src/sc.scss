@@ -1,0 +1,16 @@
+@import './st.scss';
+
+body{
+    background-image: url('./images/7.jpg');
+    background-size: cover;
+    background-repeat: none;
+    div{
+        p{
+            font-size: 18px;
+            color:$color_3;
+            padding: 50px;
+            border-radius: 20%;
+            box-shadow: 0 0 10px #000;
+        }
+    }
+}

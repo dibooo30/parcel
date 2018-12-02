@@ -1,0 +1,24 @@
+{
+  "name": "parcle-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.3.1",
+    "node-sass": "^4.10.0"
+  },
+  "devDependencies": {
+    "postcss-modules": "^1.4.1",
+    "pug": "^2.0.3",
+    "sass": "^1.15.1",
+    "typescript": "^3.2.1"
+  },
+  "scripts": {
+    "start": "parcel index.pug",
+    "build": "parcel build index.pug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+@import './src/stayle2.css';
+@import './src/st.scss';
+@import './src/sc.scss';
+
+h1{
+    color: red;
+}
